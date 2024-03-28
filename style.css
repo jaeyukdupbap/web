@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(YtASe8.jpg) no-repeat;
+    background: url(사진.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -141,7 +141,7 @@ header {
     right: 0;
     width: 45px;
     height: 45px;
-    background: plum;
+    background: black;
     font-size: 2em;
     color: white;
     display: flex;
@@ -170,7 +170,7 @@ header {
     top: 30%;
     left: 5px;
     font-size: 1em;
-    color: green;
+    color: rgb(0, 204, 255);
     font-weight: 500;
     pointer-events: none;
     transition: .5s;
@@ -188,7 +188,7 @@ header {
     border: none;
     outline: none;
     font-size: 1em;
-    color: darkorange;
+    color: black;
     font-weight: 600;
     padding: 0 35px 0 5;
 }
@@ -197,7 +197,7 @@ header {
     position: absolute;
     right: 8px;
     font-size: 1.2em;
-    color: green;
+    color: black;
     line-height: 57px;
 }
 
@@ -227,7 +227,7 @@ header {
 .btn {
     width: 100%;
     height: 45px;
-    background: orangered;
+    background: black;
     border: none;
     outline: none;
     border-radius: 6px;
@@ -246,7 +246,7 @@ header {
 }
 
 .login-register p a {
-    color: purple;
+    color: rgb(0, 204, 255);
     text-decoration: none;
     font-weight: 600;
     margin-left: 1em;
